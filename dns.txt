@@ -1,0 +1,10 @@
+Logs com.amazonaws.vpce.us-east-1.vpce-svc-025a56b9187ac1f63    agent-http-intake.logs.datadoghq.com
+Logs com.amazonaws.vpce.us-east-1.vpce-svc-0e36256cb6172439d    http-intake.logs.datadoghq.com
+API    com.amazonaws.vpce.us-east-1.vpce-svc-064ea718f8d0ead77    api.datadoghq.com
+Metrics    com.amazonaws.vpce.us-east-1.vpce-svc-09a8006e245d1e7b8    metrics.agent.datadoghq.com
+Containers    com.amazonaws.vpce.us-east-1.vpce-svc-0ad5fb9e71f85fe99    orchestrator.datadoghq.com
+Process    com.amazonaws.vpce.us-east-1.vpce-svc-0ed1f789ac6b0bde1    process.datadoghq.com
+Profiling    com.amazonaws.vpce.us-east-1.vpce-svc-022ae36a7b2472029    intake.profile.datadoghq.com
+Traces    com.amazonaws.vpce.us-east-1.vpce-svc-0355bb1880dfa09c2    trace.agent.datadoghq.com
+Database_Monitoring    com.amazonaws.vpce.us-east-1.vpce-svc-0ce70d55ec4af8501    dbm-metrics-intake.datadoghq.com
+Remote_Configuration    com.amazonaws.vpce.us-east-1.vpce-svc-01f21309e507e3b1d    config.datadoghq.com

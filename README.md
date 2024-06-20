@@ -1,8 +1,6 @@
-# Welcome to your CDK TypeScript project
+# datadog-vpcendpoint-cdk
 
-This is a blank project for CDK development with TypeScript.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+This project builds a vpc endpoint to send your datadog traffic to 
 
 ## Useful commands
 
