@@ -1,8 +1,8 @@
 {
-  "name": "datadog-vpcendpoint-cdk",
+  "name": "vpcendpoint-cdk",
   "version": "0.1.0",
   "bin": {
-    "datadog-vpcendpoint-cdk": "bin/datadog-vpcendpoint-cdk.js"
+    "vpcendpoint-cdk": "bin/vpcendpoint-cdk.js"
   },
   "scripts": {
     "build": "tsc",
