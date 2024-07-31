@@ -22,6 +22,24 @@ const environments: Environment[] = [
                'vpc-0f446030e7a123115'
             ]
         },
+        {
+            account: '775794411819',
+            region: 'us-east-1',
+            vpc_list: [
+                'vpc-014100fa54ec979ca', // Prod7 VPC
+                'vpc-0fd10dd9e093a1389', // Prod5 VPC
+                'vpc-03fad11e4929f9cd3', // VPC has no name
+                'vpc-0f5fd0c268da049c9', // EKS Production VPC
+                'vpc-0112e6bbe87a89aa9', // EKS CTL prod 3 VPC
+                'vpc-0364e9f7706b0cce6', // EKS CTL prod 2 VPC
+                'vpc-96d17df2',          // Default VPC
+                'vpc-0a94363c2f3dd5bb5', // places DB stack VPC
+                'vpc-0f2e65f9f1b25585d', // Prod shared resources
+                'vpc-0aca71eb32d67e02a', // Sandbox McDonalds VPC
+                'vpc-0fc0d9c990095f153', // Prod4 VPC
+                'vpc-0eea34989ea2354ab'  // Prod6 VPC
+            ]
+        }
 ]
 
 
