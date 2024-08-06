@@ -48,6 +48,9 @@ for (const environment of environments) {
     const { account, region, vpc_list } = environment;
     for (const vpc of vpc_list) {
         new VPCEndpointStack(app, `Datadog-VPCEndpointStack-${account}-${region}-${vpc}`, {
+            synthesizer: new cdk.DefaultStackSynthesizer(
+                {generateBootstrapVersionRule: false}
+            ),
             env: {
                 account: account,
                 region:  region
